@@ -1,0 +1,1 @@
+Lecture 2 task - file with any word
